@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\bin\Debug\net7.0\applicationnn.exe
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\bin\Debug\net7.0\applicationnn.deps.json
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\bin\Debug\net7.0\applicationnn.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\bin\Debug\net7.0\applicationnn.dll
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\bin\Debug\net7.0\applicationnn.pdb
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\obj\Debug\net7.0\applicationnn.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\obj\Debug\net7.0\applicationnn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\obj\Debug\net7.0\applicationnn.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\obj\Debug\net7.0\applicationnn.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\obj\Debug\net7.0\applicationnn.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\obj\Debug\net7.0\applicationnn.dll
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\obj\Debug\net7.0\refint\applicationnn.dll
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\obj\Debug\net7.0\applicationnn.pdb
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\obj\Debug\net7.0\applicationnn.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Jenkins\another\applicationnn\applicationnn\obj\Debug\net7.0\ref\applicationnn.dll
