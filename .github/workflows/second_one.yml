@@ -4,5 +4,5 @@ jobs:
   print:
     runs-on: windows-latest
     steps:
-      - name: print-context
+    - name: print-context
       run: echo ${{github}}
