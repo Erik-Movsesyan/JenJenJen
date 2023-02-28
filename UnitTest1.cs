@@ -6,6 +6,7 @@ namespace env {
 
         [Test]
         public void Test1() {
+            System.Console.WriteLine("yep");
             Assert.Pass();
         }
     }
